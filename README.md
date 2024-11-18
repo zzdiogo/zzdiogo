@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">Im currently taking a degree in computer engineering at Polytechnic University of Setúbal</h3>
+<h3 align="center">Currently taking a degree in computer engineering at Polytechnic University of Setúbal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzdiogo&label=Profile%20views&color=0e75b6&style=flat" alt="zzdiogo" /> </p>
 
